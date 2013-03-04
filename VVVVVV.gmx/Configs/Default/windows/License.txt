@@ -1,0 +1,10 @@
+Copyrigt 2013 - DevilCraftStudio
+
+Creator - Ludvík Blaha
+
+Controls:
+Alt - FullScreen
+Backspace - Restart Game
+Esc - End Game
+Left/Right - Character movement
+Up - Gravity switch
